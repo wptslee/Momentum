@@ -1,4 +1,4 @@
-# Momonton
+# Momentum
 
 A clone of the productivity chrome app [Momentum](https://chrome.google.com/webstore/detail/momentum/) on Vanilla JS
 
@@ -13,4 +13,4 @@ A clone of the productivity chrome app [Momentum](https://chrome.google.com/webs
 
 ## Try it out
 
-[https://wptslee.github.io/momonton/](https://wptslee.github.io/momonton/)
+[https://wptslee.github.io/momentum/](https://wptslee.github.io/momentum/)
